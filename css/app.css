@@ -1,0 +1,19 @@
+.stopwatch h1 {
+    /*font-size: 20em;*/
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20vw;   /* IE9 */
+}
+.wrapper {
+        width: 95%; /* 1140px - 10% for margins */
+        margin: 0 auto;
+        overflow: hidden;
+    }
+.top {
+    visibility: hidden;
+}
+.bottom {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
